@@ -1,0 +1,10 @@
+E:\Projects\Voronoi2D\Voronoi2D\bin\Debug\Voronoi2D.exe.config
+E:\Projects\Voronoi2D\Voronoi2D\bin\Debug\Voronoi2D.exe
+E:\Projects\Voronoi2D\Voronoi2D\bin\Debug\Voronoi2D.pdb
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.csprojAssemblyReference.cache
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.Form1.resources
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.Properties.Resources.resources
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.csproj.GenerateResource.cache
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.csproj.CoreCompileInputs.cache
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.exe
+E:\Projects\Voronoi2D\Voronoi2D\obj\Debug\Voronoi2D.pdb
