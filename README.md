@@ -1,5 +1,5 @@
 # Voronoi2D
-Simple example of generating 2D Voronoi noise from custom points
+Simple example of generating 2D Voronoi noise / diagram from custom points
 
 Randomly placed points (Add rnd):
 
